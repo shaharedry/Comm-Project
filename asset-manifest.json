@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Comm-Project/static/css/main.aa712fd9.chunk.css",
+    "main.js": "/Comm-Project/static/js/main.af3e39d7.chunk.js",
+    "main.js.map": "/Comm-Project/static/js/main.af3e39d7.chunk.js.map",
+    "runtime-main.js": "/Comm-Project/static/js/runtime-main.4e2a6f37.js",
+    "runtime-main.js.map": "/Comm-Project/static/js/runtime-main.4e2a6f37.js.map",
+    "static/js/2.311d60e9.chunk.js": "/Comm-Project/static/js/2.311d60e9.chunk.js",
+    "static/js/2.311d60e9.chunk.js.map": "/Comm-Project/static/js/2.311d60e9.chunk.js.map",
+    "index.html": "/Comm-Project/index.html",
+    "static/css/main.aa712fd9.chunk.css.map": "/Comm-Project/static/css/main.aa712fd9.chunk.css.map",
+    "static/js/2.311d60e9.chunk.js.LICENSE.txt": "/Comm-Project/static/js/2.311d60e9.chunk.js.LICENSE.txt",
+    "static/media/Logo.479c7ada.png": "/Comm-Project/static/media/Logo.479c7ada.png",
+    "static/media/ShopMens.fcf2fa24.jpg": "/Comm-Project/static/media/ShopMens.fcf2fa24.jpg",
+    "static/media/ShopWomens.81fa5624.jpg": "/Comm-Project/static/media/ShopWomens.81fa5624.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e2a6f37.js",
+    "static/js/2.311d60e9.chunk.js",
+    "static/css/main.aa712fd9.chunk.css",
+    "static/js/main.af3e39d7.chunk.js"
+  ]
+}
